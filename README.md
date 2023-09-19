@@ -1,6 +1,6 @@
 # Natural Language Processing with Disaster Tweets
 
-The aim of this project is to predict which Tweets are about real disasters and which ones are not.
+The aim of this project is to predict which tweets are about real disasters and which ones are not.
 
 For this project I use the following methods: 
 
